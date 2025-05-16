@@ -149,4 +149,3 @@ networks:
 - **Separación de responsabilidades**: FastAPI maneja la lógica del backend, Apache actúa como proxy.
 - **Uso de Docker Compose**: Facilita la orquestación y asegura que los servicios estén aislados.
 - **Configuración explícita**: Los Dockerfiles y archivos de configuración son claros y reproducibles.
->>>>>>> 55adeca (Initial commit: Apache reverse proxy for FastAPI with Docker Compose)
